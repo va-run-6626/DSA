@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ebd0971d-608f-461c-a974-441096d3eaf2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Graphs/Prog5_RottenOranges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Graphs/Prog5_RottenOranges.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,8 @@
     "Application.Prog5_RottenOranges.executor": "Run",
     "Application.Prog6_DetectCycleInUndirectedGraph.executor": "Run",
     "Application.Prog7_DetectCycleUsingDFS.executor": "Run",
+    "Application.Prog8_01Matrix.executor": "Run",
+    "Application.Prog9_XO.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
