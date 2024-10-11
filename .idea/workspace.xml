@@ -37,6 +37,7 @@
   "keyToString": {
     "Application.Prog10_NumberOfEnclaves.executor": "Run",
     "Application.Prog11_NoOfDistinctIslands.executor": "Run",
+    "Application.Prog12_BipartiteGraphBFS.executor": "Run",
     "Application.Prog1_BFS.executor": "Run",
     "Application.Prog2_DFS.executor": "Run",
     "Application.Prog3_NoOfProvinces.executor": "Run",
