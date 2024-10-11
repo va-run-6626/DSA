@@ -1,4 +1,4 @@
-package Graphs;
+package Graphs.FirstHalf;
 
 import java.util.Arrays;
 

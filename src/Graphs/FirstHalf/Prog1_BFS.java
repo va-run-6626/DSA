@@ -1,6 +1,5 @@
-package Graphs;
+package Graphs.FirstHalf;
 
-import java.lang.reflect.Array;
 import java.util.*;
 
 public class Prog1_BFS {
